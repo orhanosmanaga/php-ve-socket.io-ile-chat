@@ -1,0 +1,25 @@
+#kayit{
+float:left;
+
+}
+#giris
+{
+    float: right;
+}
+#mesajsag
+{
+    float:right;
+    color: red;
+
+}
+#mesajsol
+{
+    float: left;
+
+
+}
+img{
+
+    height: 10px;
+    width: 10px;
+}
