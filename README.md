@@ -1,3 +1,4 @@
+<color="red"><h1>07.12_bitti_tasarim_yok_2 --> ana kod</h1></color><br>
 <hr>
 <h1>Proje için gerekli kurulumlar:</h1><br>
 +Phpstorm(projenin yazıldığı yer) -->https://www.ndonmez.com/phpstorm-ucretsiz-ogrenci-versiyonu-edinme-ve-kurulumu/ <br>
